@@ -296,5 +296,13 @@
     "wide-align": "^1.1.5",
     "yargs-parser": "^20.2.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianDV04/VentaBebidas--DemilanoV.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JulianDV04/VentaBebidas--DemilanoV/issues"
+  },
+  "homepage": "https://github.com/JulianDV04/VentaBebidas--DemilanoV#readme",
   "description": ""
 }

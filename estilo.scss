@@ -1,0 +1,39 @@
+body{
+    background-color: chocolate;
+}
+header{
+    .nav{
+        width: 80%;
+        background-color: coral;
+        margin: 10px auto;
+        .promo{
+            list-style-type: none;
+            padding: 10px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            .promo{
+                padding: 10px;
+                margin: 10px;
+                &:hover{
+                    background-color: black;
+                    border-radius: 20%;
+                }
+                a{
+                    text-decoration: none;
+                    color: aliceblue;
+                    &:hover{
+                        color: crimson;
+                        font-weight: bold;
+                    }
+                }
+            }
+        }
+    }
+}
+div{
+    background-color: coral;
+    .promo{
+        display: flex;
+    }
+}
